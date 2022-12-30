@@ -1,5 +1,5 @@
 
-import ImageCompressor from './image/ImageCompressor'
+import ImageCompressor from './imageCompress/imageCompressor'
 
 export default function Home() {
   return (
